@@ -14,24 +14,24 @@ Ao completar uma missão, o jogador recebe:
 
 🎴 Uma carta de evento, que concede vantagens estratégicas.
 
-A equipe vence quando:
+-  A equipe vence quando:
 
-Conserta totalmente sua ponte;
+-  Conserta totalmente sua ponte;
 
-Atravessa para o território inimigo;
+-  Atravessa para o território inimigo;
 
-Captura a bandeira adversária;
+-  Captura a bandeira adversária;
 
-Retorna ao altar/portal da própria base.
+-  Retorna ao altar/portal da própria base.
 
 Mecânicas do Jogo
-Papéis dos Participantes
+Papéis dos Participantes:
 
-Programador(a): cria a sequência lógica de comandos.
+-  Programador(a): cria a sequência lógica de comandos.
 
-Executor(a): move o personagem pelo tabuleiro conforme os comandos.
+-  Executor(a): move o personagem pelo tabuleiro conforme os comandos.
 
-Monitor/Juiz: valida ações, orienta e esclarece dúvidas.
+-  Monitor/Juiz: valida ações, orienta e esclarece dúvidas.
 
 Estrutura
 
@@ -89,25 +89,25 @@ Cenário e Itens do Jogo
 
 Elementos modelados e impressos em 3D compõem o tabuleiro:
 
-Flores da lua
+-  Flores da lua
 
-Óculos de Juma
+-  Óculos de Juma
 
-Lasanhas (jantar do Guaxinim)
+-  Pizza (jantar do Guaxinim)
 
-Lixeiras
+-  Lixeiras
 
-Cavernas
+-  Cavernas
 
-Árvores
+-  Árvores
 
-Pontes
+-  Pontes
 
-Trechos de rio
+-  Trechos de rio
 
-Bandeiras
+-  Bandeiras
 
-Grama, pedras e estruturas diversas
+-  Grama, pedras e estruturas diversas
 
 Todos os itens apresentam dimensões específicas compatíveis com o tabuleiro.
 
@@ -115,13 +115,13 @@ Cartas de Evento
 
 As cartas oferecem vantagens táticas, como:
 
-Furtividade do Guaxinim – Roube um item que a equipe adversária ainda não possui.
+  Furtividade do Guaxinim – Roube um item que a equipe adversária ainda não possui.
 
-Dados Duplos – O time recebe duas rodadas de movimento.
+  Dados Duplos – O time recebe duas rodadas de movimento.
 
-Movimento Extra – Concede uma ação adicional.
+  Movimento Extra – Concede uma ação adicional.
 
-Sabedoria do Divino – Permite obter ajuda do monitor por uma rodada.
+  Sabedoria do Divino – Permite obter ajuda do monitor por uma rodada.
 
 Objetivo Educacional
 
